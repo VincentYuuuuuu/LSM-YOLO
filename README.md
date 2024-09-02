@@ -1,7 +1,7 @@
 # Official LSM-YOLO
-<p align="center">
-Implementation of paper - LSM-YOLO: [A Compact and Effective ROI Detector for Medical Detection](https://arxiv.org/pdf/2408.14087)
-</p>
+
+Implementation of paper - [LSM-YOLO: A Compact and Effective ROI Detector for Medical Detection](https://arxiv.org/pdf/2408.14087)
+
 
 ## Installation
 ``` shell
